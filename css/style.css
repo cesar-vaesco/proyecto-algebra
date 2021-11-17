@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(212, 245, 232) !important;
+}
+
+h5 {
+    color: bold;
+}
+
+a {
+    text-decoration: none
+}
+
+.grupo {
+    display: inline-block;
+}
+
+.grupo1 {
+    display: inline-block;
+}
+
+.equipo {
+    text-align: left;
+    margin-left: 80px;
+}
+
+.elementos {
+    margin-left: 150px;
+}
+
+.elem-act {
+    text-align: left;
+    margin-left: 250px;
+    color: black;
+}
+
+/*Contenido*/
+
+.contenido {
+    display: flex;
+    margin-left: 50px;
+}
+
+/*Info-numeración*/
+
+.video {
+    display: flex;
+    text-align: left;
+    margin-left: 80px;
+}
+
+.video-youtube {
+    margin-left: 80px;
+}
+
+.convertidor {
+    margin-left: 80px;
+}
